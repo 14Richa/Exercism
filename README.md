@@ -1,2 +1,2 @@
 # Exercism
-Solved exercism question in `javascript`.
+Solved exercism questions and algorithms in `javascript`.
