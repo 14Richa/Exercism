@@ -1,2 +1,2 @@
 # Exercism
-# Exercism
+Algorithms in `javascript`.
